@@ -5,7 +5,7 @@
 /* Company: Dattendriya Data Science Solutions
 /* Author: S. Denakaran
 /********************************************************************
-no:123;
+no:12345;
 //getting the no's from 0 so added 1
 no1:no+1;
 //permutations of numbers '
